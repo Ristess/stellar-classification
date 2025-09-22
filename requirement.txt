@@ -3,6 +3,3 @@ pandas
 scikit-learn
 plotly
 plotly-express
-yfinance
-pandas-datareader
-prophet
